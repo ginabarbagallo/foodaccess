@@ -1,2 +1,2 @@
 # Deploying a Food Access Program
-Communities in the United States struggle to access food for multiple reasons, which can further affect their health outcomes. 
+Communities in the United States struggle to access food for multiple reasons, which can further affect their health outcomes. In this analysis, I used data from the top 500 counties in the US to analyze their main problems and provide a score that represents how much they struggle with food access. In the slide deck I analyze the top 10 counties that could be targeted and the impact it would have on the health outcomes of the individuals. 
